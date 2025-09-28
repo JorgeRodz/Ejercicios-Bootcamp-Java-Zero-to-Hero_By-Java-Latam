@@ -12,3 +12,8 @@ En este repo se encontraran los ejercicios del Bootcamp Java Zero-to-Hero impart
 - [🧠 Ejercicios de Codificación](./02-Operadores/Ejercicios-Codificacion.jsh)
 - [🛠️ Ejercicios de Corrección de Código](./02-Operadores/Ejercicios-Correccion-de-Codigo.jsh)
 - [💥 Errores de Compilador y Ejecución](./02-Operadores/Errores-compilador-de-ejecucion.jsh)
+
+### 03-Variables
+- [🧠 Ejercicios de Codificación](./03-Variables/EjerciciosCodificacion.jsh)
+- [🛠️ Ejercicios de Corrección de Código](./03-Variables/EjerciciosCorrecionCodigo.jsh)
+- [💥 Errores de Compilador y Ejecución](./03-Variables/Errores-compilador-y-tiempo-ejecucion.jsh)
