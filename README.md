@@ -20,4 +20,4 @@ En este repo se encontraran los ejercicios del Bootcamp Java Zero-to-Hero impart
 
 ### 04-String y StringBuilder
 - [💥 Errores de Compilador y Ejecución](./04-String-y-StringBuilder/Errores-compilador-y-tiempo-de-ejecucion.jsh)
-- [🧠 Ejercicios de Codificación](./04-String-y-StringBuilder/EjerciciosCodificacion.jsh)
+- [🧠 Ejercicios de Codificación](./04-String-y-StringBuilder/Ejercicios-codificacion.jsh)
